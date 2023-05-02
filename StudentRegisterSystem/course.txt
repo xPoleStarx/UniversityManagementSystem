@@ -1,0 +1,7 @@
+CENG1234;Data Structures and Algorithms;Mark Twain;5
+CENG2345;Programming Languages;Mark Lutz;6
+CENG6789;Machine Learning;John Wick;5
+CENG2347;Data Science;Mark Zuckerberg;2
+CENG2348;Programming Fundamentals;Baris Ethem Suzek;4
+CENG2349;Computer Science;Baris Isci Pembeci;4
+CENG2350;Computer Components;Elon Muscular;2
