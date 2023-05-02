@@ -1,6 +1,7 @@
 # UniversityManagementSystem
  📝👩‍🎓 Welcome to our course management system! 🎓📊  
- Our system uses two text files, course.txt and student.txt, to store information about courses and students, respectively.  Here are the main functions of our system:  1️⃣ all_courses_1(): displays a list of all available courses, including their code, name, teacher, and the number of enrolled students.  
+ Our system uses two text files, course.txt and student.txt, to store information about courses and students, respectively.  Here are the main functions of our system:  
+ 1️⃣ all_courses_1(): displays a list of all available courses, including their code, name, teacher, and the number of enrolled students.  
 3️⃣ add_new_course_3(): allows the user to add a new course to the system by entering its code, name, and teacher.  
 4️⃣ searchbycode_4(): lets the user search for a course by its code.  
 5️⃣ search_course_by_name_5(): enables the user to search for a course by its name.  
