@@ -1,5 +1,5 @@
 # UniversityManagementSystem
-📝👩‍🎓 Welcome to our course management system! 🎓📊
+📝👩‍🎓 Welcome to our Univesity management system! 🎓📊
 
 Our system uses two text files, course.txt and student.txt, to store information about courses and students, respectively.
 
